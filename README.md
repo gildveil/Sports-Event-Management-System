@@ -1,4 +1,4 @@
-# Sports-Event-Management-System
+# Sports-Event-Management-System - Academic Project (Modified - Minimal-Simple)
 
 <img width="1912" height="912" alt="login page" src="https://github.com/user-attachments/assets/a8efdc7a-b19b-4a18-8350-94375958ad05" />
 <img width="1915" height="906" alt="SEMS1" src="https://github.com/user-attachments/assets/d81b8c11-acd4-4fba-88f4-2fb1f5af5345" />
